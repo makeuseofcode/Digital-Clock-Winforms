@@ -1,0 +1,16 @@
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.exe
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.deps.json
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.runtimeconfig.json
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.runtimeconfig.dev.json
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.dll
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.pdb
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.csproj.AssemblyReference.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.Form1.resources
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.csproj.GenerateResource.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.AssemblyInfoInputs.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.AssemblyInfo.cs
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.dll
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.pdb
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\5. Digital Clock Winforms\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.genruntimeconfig.cache
